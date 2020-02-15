@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/imgur-album-view/precache-manifest.0ff577f4246a852b713dd93ad4996193.js"
+  "/imgur-album-view/precache-manifest.cf5149ef012e684594693def4e936ec1.js"
 );
 
 self.addEventListener('message', (event) => {
