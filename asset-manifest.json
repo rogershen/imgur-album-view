@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imgur-album-view/static/css/main.4459c072.chunk.css",
+    "main.js": "/imgur-album-view/static/js/main.95e3b050.chunk.js",
+    "main.js.map": "/imgur-album-view/static/js/main.95e3b050.chunk.js.map",
+    "runtime-main.js": "/imgur-album-view/static/js/runtime-main.449f9c95.js",
+    "runtime-main.js.map": "/imgur-album-view/static/js/runtime-main.449f9c95.js.map",
+    "static/js/2.848f92b6.chunk.js": "/imgur-album-view/static/js/2.848f92b6.chunk.js",
+    "static/js/2.848f92b6.chunk.js.map": "/imgur-album-view/static/js/2.848f92b6.chunk.js.map",
+    "index.html": "/imgur-album-view/index.html",
+    "precache-manifest.7dde916bc07adea50ee2aa67d61b2dc4.js": "/imgur-album-view/precache-manifest.7dde916bc07adea50ee2aa67d61b2dc4.js",
+    "service-worker.js": "/imgur-album-view/service-worker.js",
+    "static/css/main.4459c072.chunk.css.map": "/imgur-album-view/static/css/main.4459c072.chunk.css.map",
+    "static/js/2.848f92b6.chunk.js.LICENSE.txt": "/imgur-album-view/static/js/2.848f92b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449f9c95.js",
+    "static/js/2.848f92b6.chunk.js",
+    "static/css/main.4459c072.chunk.css",
+    "static/js/main.95e3b050.chunk.js"
+  ]
+}
