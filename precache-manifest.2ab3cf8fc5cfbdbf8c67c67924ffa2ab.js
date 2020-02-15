@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e45c3eeec0db4a99c4b829db2c063aa9",
+    "revision": "9f09f7238eea8ab0ac2b0a29d1edf656",
     "url": "/imgur-album-view/index.html"
   },
   {
-    "revision": "e85503e4fbc997382a9c",
+    "revision": "9aabef2c83bff205fbb3",
     "url": "/imgur-album-view/static/css/main.4459c072.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imgur-album-view/static/js/2.848f92b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e85503e4fbc997382a9c",
-    "url": "/imgur-album-view/static/js/main.95e3b050.chunk.js"
+    "revision": "9aabef2c83bff205fbb3",
+    "url": "/imgur-album-view/static/js/main.a1d91df6.chunk.js"
   },
   {
     "revision": "80dd6482e7080eb4c12b",
