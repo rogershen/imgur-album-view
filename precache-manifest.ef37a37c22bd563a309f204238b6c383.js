@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f09f7238eea8ab0ac2b0a29d1edf656",
+    "revision": "88b63df0d89015cd0b069a6ff4157955",
     "url": "/imgur-album-view/index.html"
   },
   {
