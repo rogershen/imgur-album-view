@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/imgur-album-view/static/css/main.4459c072.chunk.css",
-    "main.js": "/imgur-album-view/static/js/main.a1d91df6.chunk.js",
-    "main.js.map": "/imgur-album-view/static/js/main.a1d91df6.chunk.js.map",
+    "main.css": "/imgur-album-view/static/css/main.b254f560.chunk.css",
+    "main.js": "/imgur-album-view/static/js/main.12544229.chunk.js",
+    "main.js.map": "/imgur-album-view/static/js/main.12544229.chunk.js.map",
     "runtime-main.js": "/imgur-album-view/static/js/runtime-main.449f9c95.js",
     "runtime-main.js.map": "/imgur-album-view/static/js/runtime-main.449f9c95.js.map",
-    "static/js/2.848f92b6.chunk.js": "/imgur-album-view/static/js/2.848f92b6.chunk.js",
-    "static/js/2.848f92b6.chunk.js.map": "/imgur-album-view/static/js/2.848f92b6.chunk.js.map",
+    "static/js/2.35ac4765.chunk.js": "/imgur-album-view/static/js/2.35ac4765.chunk.js",
+    "static/js/2.35ac4765.chunk.js.map": "/imgur-album-view/static/js/2.35ac4765.chunk.js.map",
     "index.html": "/imgur-album-view/index.html",
-    "precache-manifest.ef37a37c22bd563a309f204238b6c383.js": "/imgur-album-view/precache-manifest.ef37a37c22bd563a309f204238b6c383.js",
+    "precache-manifest.ba80cb8b07dad34d8d13ddf59503f04e.js": "/imgur-album-view/precache-manifest.ba80cb8b07dad34d8d13ddf59503f04e.js",
     "service-worker.js": "/imgur-album-view/service-worker.js",
-    "static/css/main.4459c072.chunk.css.map": "/imgur-album-view/static/css/main.4459c072.chunk.css.map",
-    "static/js/2.848f92b6.chunk.js.LICENSE.txt": "/imgur-album-view/static/js/2.848f92b6.chunk.js.LICENSE.txt"
+    "static/css/main.b254f560.chunk.css.map": "/imgur-album-view/static/css/main.b254f560.chunk.css.map",
+    "static/js/2.35ac4765.chunk.js.LICENSE.txt": "/imgur-album-view/static/js/2.35ac4765.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.449f9c95.js",
-    "static/js/2.848f92b6.chunk.js",
-    "static/css/main.4459c072.chunk.css",
-    "static/js/main.a1d91df6.chunk.js"
+    "static/js/2.35ac4765.chunk.js",
+    "static/css/main.b254f560.chunk.css",
+    "static/js/main.12544229.chunk.js"
   ]
 }
